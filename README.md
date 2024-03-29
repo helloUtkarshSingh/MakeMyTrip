@@ -39,7 +39,3 @@ Contributions to the MakeMyTrip Selenium Java Project are welcome! If you find a
 3. Make your changes and commit them: `git commit -am 'Add some feature'`.
 4. Push to the branch: `git push origin my-new-feature`.
 5. Submit a pull request.
- 
-## License
- 
-This project is licensed under the [insert license type] License. See the [LICENSE](LICENSE) file for details.
